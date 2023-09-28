@@ -1,0 +1,6 @@
+bu ksıma dokumanları koyabılırız
+
+#scenario outline dakı examples daki kodları duzenlemek ıcın -->düzenleme için ctrl+alt+L
+-> background--> her test scenarıosudna en basta bu adımlar calısır
+
+--> date table  arastır
